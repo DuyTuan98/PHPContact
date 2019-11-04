@@ -1,2 +1,7 @@
 # PHPG12019
 Dự án PHP dành cho nhóm 1 năm học 2019
+
+TÊN: VÕ DUY TUẤN
+MÃ SV: 16T1021194
+USERNAME: DUYTUAN@GMAIL.COM
+PASS: 123
